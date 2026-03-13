@@ -1,0 +1,25 @@
+{
+  "name": "lepet",
+  "appid": "",
+  "description": "Light love longer love.",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "transformPx": true,
+  "uniStatistics": {
+    "enable": true
+  },
+  "app-plus": {
+    "usingComponents": true,
+    "nvueStyleCompiler": "uni-app"
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  },
+  "h5": {
+    "usingComponents": true
+  }
+}
